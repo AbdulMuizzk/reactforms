@@ -1,0 +1,33 @@
+.form {
+    border:2px solid lightblue;
+    padding: 30px;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.heading{
+    color:rgb(132, 132, 251);
+}
+
+label{
+    padding-right:110px;
+    text-align: left;
+    color:rgb(132, 132, 251);
+}
+.labels{
+    padding-right: 140px;
+}
+.educativelogo{
+    width: 50px;
+    height: 50px;
+}
+button{
+
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    color:rgb(120, 120, 254);
+    background-color: rgb(210, 210, 238);
+    border-radius: 50px;
+    border: none;
+}
